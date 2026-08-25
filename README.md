@@ -24,6 +24,7 @@ The project performs static file analysis by calculating **SHA-256 cryptographic
 
 ##  How It Works
 
+```text
 USB Drive
     │
     ▼
@@ -48,7 +49,7 @@ Hashing         Analysis
       ▼     ▼     ▼
      LOW  SUSPICIOUS  HIGH
 
-
+```
 ⚠️ Disclaimer
 
 USBGuard is developed for educational and authorized security testing purposes only.
