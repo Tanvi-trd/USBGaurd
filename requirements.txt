@@ -1,0 +1,2 @@
+# USBGuard
+# Python standard library only
