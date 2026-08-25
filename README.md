@@ -24,7 +24,6 @@ The project performs static file analysis by calculating **SHA-256 cryptographic
 
 ##  How It Works
 
-```text
 USB Drive
     │
     ▼
@@ -49,16 +48,15 @@ Hashing         Analysis
       ▼     ▼     ▼
      LOW  SUSPICIOUS  HIGH
 
+
 ⚠️ Disclaimer
 
 USBGuard is developed for educational and authorized security testing purposes only.
-
 Do not use this tool to inspect systems, removable drives, or files without appropriate authorization.
-
 USBGuard does not guarantee malware detection and should not be used as a replacement for professional antivirus or endpoint security software.
+
+
 👩‍💻 Author
-
 Tanvi R. Devadiga
-
 Computer Science & Engineering Student
- Cybersecurity| Network Security| and Ethical Hacking.
+Cybersecurity| Network Security| and Ethical Hacking.
